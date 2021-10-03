@@ -1,0 +1,15 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "Bot for server!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frogas",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.11.2",
+    "mineflayer-pathfinder": "^1.8.0"
+  }
+}
