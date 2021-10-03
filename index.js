@@ -2,7 +2,7 @@ const mineflayer = require("mineflayer");
 const bot = mineflayer.createBot({ 
 	host: "hivermcnetwork.aternos.me",
 	port: 63409,
-    username: "FrogasBot" 
+        username: "FrogasBot" 
 });
 
 function lookAtNearestPlayer(){
