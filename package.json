@@ -9,7 +9,6 @@
   "author": "Frogas",
   "license": "ISC",
   "dependencies": {
-    "mineflayer": "^3.11.2",
-    "mineflayer-pathfinder": "^1.8.0"
+    "mineflayer": "^3.11.2"
   }
 }
